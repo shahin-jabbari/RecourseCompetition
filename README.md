@@ -1,5 +1,5 @@
-Code for the paper Algorithmic Recourse Under Competition
-https://arxiv.org/abs/2609.39877
+Code for the paper "Algorithmic Recourse Under Competition" by Shahin Jabbari. The paper
+is available at https://arxiv.org/abs/2609.39877.
 
 Running all cells will generate all the plots in the paper. The datasets are downloaded 
 from publicly available sources. The "Give Me Credit" dataset is attached as a separate
